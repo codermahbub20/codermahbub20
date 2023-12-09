@@ -19,10 +19,7 @@ impactful digital experiences.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/mahbub-khandakar-a61828291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbubkhandakar" height="30" width="40" /></a>
-<a href="https://fb.com/mahbub.khandakar.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbub.khandakar.94" height="30" width="40" /></a>
-<a href="https://instagram.com/mahbub_khandakar_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahbub_khandakar_24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mahbub24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahbub24" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahbub24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahbub24" height="30" width="40" /></a>
+<a href="mkrefat5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="mahbub.khandakar.94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
