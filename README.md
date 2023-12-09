@@ -29,10 +29,7 @@ impactful digital experiences.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="codermahbub20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=vue&utcOffset=8)
-![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=vue)
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark)](https://git.io/streak-stats)
