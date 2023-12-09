@@ -43,7 +43,7 @@ React Js | Express Js | Tailwind | MongoDB | Firebase | Axios | TanStack | Jwt |
 - Password: *QWEasd123#
 
 **[<a href="https://building-management-b02ba.web.app/">LiveSite</a>
-(#)** | **<a href="https://github.com/codermahbub20/building-management-client-side">Frontend Code</a>](#)** | **[<a href="https://github.com/codermahbub20/building-management-server-side">Backend Code</a>](#)**
+(#)| **<a href="https://github.com/codermahbub20/building-management-client-side">Frontend Code</a>](#)** | **[<a href="https://github.com/codermahbub20/building-management-server-side">Backend Code</a>](#)**
 
 ## ⭐ Omexo – Online Group Study Project (4th November 2023 To 9th November 2023)
 
@@ -55,7 +55,7 @@ React Js | Express Js | Tailwind | MongoDB | Firebase | Axios | TanStack | Jwt |
 **Technologies:**
 React Js | Express Js | Tailwind | MongoDB | Firebase | Jwt | DaisyUi
 
-**[Live Site](#)** | **[Frontend Code](#)** | **[Backend Code](#)**
+<a href="https://online-group-study-crud-jwt.web.app/">LiveSite</a> |<a href="https://github.com/codermahbub20/online-group-study-client-side">Frontend Code</a>| <a href="https://github.com/codermahbub20/online-group-study-server-side">Backend Code</a>
 
 ## ⭐ CarSpot – Automotive Project (17 October 2023 To 21 October 2023)
 
