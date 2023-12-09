@@ -30,4 +30,4 @@ impactful digital experiences.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=calm-pink&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark)](https://git.io/streak-stats)
