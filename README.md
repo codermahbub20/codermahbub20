@@ -40,7 +40,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula" alt="Repositories Per Language">
 </p>
 
-<p align="left">
+<p >&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula" alt="Most Commit Language">
 </p>
 
