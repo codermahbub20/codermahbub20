@@ -18,12 +18,14 @@
 - 🎯 My overarching goal is to engineer meaningful and efficient solutions while meticulously staying abreast of the latest trends in web development.
 
 ## 📧 Contact With me:
-- Email: mkrefat5@gmail.com
-<p align="left">
+<a href="mkrefat5@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+
   <a href="www.linkedin.com/in/mahbub-khandakar-a61828291" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
+
 
 
 # Relevant Projects
