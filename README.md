@@ -32,7 +32,7 @@ impactful digital experiences.</h3>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)]
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)]
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark)]
