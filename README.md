@@ -1,12 +1,14 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/codermahbub20/codermahbub20/main/WhatsApp%20Image%202023-12-09%20at%201.12.38%20PM%20(1).jpeg)
-<h1 align="center">Hi 👋, I'm Mahbub Khandakar</h1>
-<h3 align="center">Passionate MERN Stack developer skilled in crafting seamless user interfaces with
-precision and speed. Adaptable team player committed to delivering clean, efficient code
-and embracing challenges. Goal is to drive innovation by transforming visionary ideas into
-impactful digital experiences.</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codermahbub20/codermahbub20/main/WhatsApp%20Image%202023-12-09%20at%201.12.38%20PM%20(1).jpeg" alt="San Juan Mountains">
+</div>
 
+# Hi there! 👋 I'm Mahbub Khandakar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codermahbub20&label=Profile%20views&color=0e75b6&style=flat" alt="codermahbub20" /> </p>
+<h3 align="center">Passionate MERN Stack developer skilled in crafting seamless user interfaces with precision and speed. Adaptable team player committed to delivering clean, efficient code and embracing challenges. Goal is to drive innovation by transforming visionary ideas into impactful digital experiences.</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codermahbub20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 - 🌱 I’m currently learning **NEXT.js**
 - 👨‍💻 As a dedicated front-end developer, my expertise lies in the comprehensive **MERN stack** development.
@@ -14,28 +16,52 @@ impactful digital experiences.</h3>
 - 💻 I take pride in my proficiency with React.js, JavaScript, Tailwind CSS, DaisyUI, Firebase, MongoDB, and Node.js.
 - 🌱 I find fulfillment in undertaking challenging projects that contribute significantly to my continuous professional growth.
 - 🎯 My overarching goal is to engineer meaningful and efficient solutions while meticulously staying abreast of the latest trends in web development.
-- ## 📧 Email : mkrefat5@gmail.com
 
+## 📧 Contact me:
+- Email: mkrefat5@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/mahbub-khandakar-a61828291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbubkhandakar" height="30" width="40" /></a>
-
+  <a href="www.linkedin.com/in/mahbub-khandakar-a61828291" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,react,figma,mongodb,nodejs,vscode)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="codermahbub20" /></p>
+## GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="GitHub Stats">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)
+## Contributions and Productivity:
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula" alt="Repositories Per Language">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark)](https://git.io/streak-stats)
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula" alt="Most Commit Language">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark)
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula" alt="GitHub Stats">
+</p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8" alt="Productive Time">
+</p>
+
+## GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark" alt="GitHub Streak">
+</p>
+
+## Profile Details:
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark" alt="Profile Details">
+</p>
