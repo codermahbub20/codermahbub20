@@ -67,7 +67,7 @@ React Js | Express Js | Tailwind | MongoDB | Firebase | Jwt | DaisyUi
 **Technologies:**
 React Js | Express Js | Tailwind | MongoDB | Firebase | Jwt | DaisyUi
 
-**<a href="https://automotive-react-auth.web.app/">LiveSite</a>** | **<a href=https://github.com/codermahbub20/automotive-react-project-client-side">Frontend Code</a>** | **<a href="https://github.com/codermahbub20/automotive-project-server-side">Backend Code</a>**
+**<a href="https://automotive-react-auth.web.app/">LiveSite</a>** | **<a href="https://github.com/codermahbub20/automotive-react-project-client-side">Frontend Code</a>** | **<a href="https://github.com/codermahbub20/automotive-project-server-side">Backend Code</a>**
 
 
 ## Languages and Tools:
