@@ -30,10 +30,10 @@ impactful digital experiences.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark)]
 
