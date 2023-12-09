@@ -36,22 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
 ## Contributions and Productivity:
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula" alt="Repositories Per Language">
-</p>
-
-<p >&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula" alt="Most Commit Language">
-</p>
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8" alt="Productive Time">
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)
 ## GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark" alt="GitHub Streak">
