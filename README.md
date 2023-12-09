@@ -58,6 +58,6 @@
 </p>
 
 ## Profile Details:
-<p align="left">
+<p align="center" width="full">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codermahbub20&theme=solarized_dark" alt="Profile Details">
 </p>
