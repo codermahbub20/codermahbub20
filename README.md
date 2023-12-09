@@ -36,12 +36,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
 ## Contributions and Productivity:
-<div align="center">
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codermahbub20&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codermahbub20&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codermahbub20&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codermahbub20&theme=dracula&utcOffset=8)
-</div>
+
 ## GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=codermahbub20&theme=vue-dark" alt="GitHub Streak">
