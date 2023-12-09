@@ -9,11 +9,11 @@ impactful digital experiences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermahbub20&label=Profile%20views&color=0e75b6&style=flat" alt="codermahbub20" /> </p>
 
 - 🌱 I’m currently learning **NEXT.js**
--👨‍💻 As a dedicated front-end developer, my expertise lies in the comprehensive **MERN stack** development.
--🚀 Commencing my coding journey with HTML and CSS, I've cultivated a profound understanding of various technologies.
--💻 I take pride in my proficiency with React.js, JavaScript, Tailwind CSS, DaisyUI, Firebase, MongoDB, and Node.js.
--🌱 I find fulfillment in undertaking challenging projects that contribute significantly to my continuous professional growth.
--🎯 My overarching goal is to engineer meaningful and efficient solutions while meticulously staying abreast of the latest trends in web development.
+- 👨‍💻 As a dedicated front-end developer, my expertise lies in the comprehensive **MERN stack** development.
+- 🚀 Commencing my coding journey with HTML and CSS, I've cultivated a profound understanding of various technologies.
+- 💻 I take pride in my proficiency with React.js, JavaScript, Tailwind CSS, DaisyUI, Firebase, MongoDB, and Node.js.
+- 🌱 I find fulfillment in undertaking challenging projects that contribute significantly to my continuous professional growth.
+- 🎯 My overarching goal is to engineer meaningful and efficient solutions while meticulously staying abreast of the latest trends in web development.
 
 
 <h3 align="left">Connect with me:</h3>
