@@ -32,6 +32,6 @@ impactful digital experiences.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="codermahbub20" /></p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={codermahbub20}&theme={vue}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codermahbub20&" alt="codermahbub20" /></p>
