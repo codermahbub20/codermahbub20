@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!]([/assets/images/san-juan-mountains.jpg ](https://raw.githubusercontent.com/codermahbub20/codermahbub20/main/WhatsApp%20Image%202023-12-09%20at%201.12.38%20PM%20(1).jpeg)"San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/codermahbub20/codermahbub20/main/WhatsApp%20Image%202023-12-09%20at%201.12.38%20PM%20(1).jpeg)"San Juan Mountains")
 <h1 align="center">Hi 👋, I'm Mahbub Khandakar</h1>
 <h3 align="center">Passionate MERN Stack developer skilled in crafting seamless user interfaces with
 precision and speed. Adaptable team player committed to delivering clean, efficient code
