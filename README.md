@@ -31,13 +31,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,react,figma,mongodb,nodejs,vscode)](https://skillicons.dev)
 
 ## GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="codermahbub20" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermahbub20&show_icons=true&locale=en" alt="codermahbub20" /></p>
 
 ## Contributions and Productivity:
 <p align="left">
