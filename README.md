@@ -28,7 +28,13 @@
 </p>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,react,figma,mongodb,nodejs,vscode)](https://skillicons.dev)
+
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,firebase,react,figma,mongodb,nodejs,vscode" alt="My Skills" width="100%">
+  </a>
+</div>
+
 
 ## GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermahbub20&show_icons=true&locale=en&layout=compact" alt="codermahbub20" /></p>
