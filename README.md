@@ -40,9 +40,6 @@
 **Technologies:**
 React Js | Express Js | Tailwind | MongoDB | Firebase | Axios | TanStack | Jwt | Material Ui
 
-**Admin Credentials:**
-- Email: mkrefat5@gmail.com
-- Password: *QWEasd123#
 
 **[<a href="https://building-management-b02ba.web.app/">LiveSite</a>
 (#)| **<a href="https://github.com/codermahbub20/building-management-client-side">Frontend Code</a>](#)** | **[<a href="https://github.com/codermahbub20/building-management-server-side">Backend Code</a>](#)**
