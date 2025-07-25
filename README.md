@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codermahbub20/codermahbub20/main/WhatsApp%20Image%202023-12-09%20at%201.12.38%20PM%20(1).jpeg" alt="San Juan Mountains">
+  <img src="https://i.ibb.co/0yJkhssy/Gray-Yellow-Geometric-CEO-FOUNDER-Email-Header.png" alt="San Juan Mountains">
 </div>
 
 # Hi there! 👋 I'm Mahbub Khandakar
