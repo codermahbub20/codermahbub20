@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/0yJkhssy/Gray-Yellow-Geometric-CEO-FOUNDER-Email-Header.png" alt="San Juan Mountains">
+  <img src="https://i.ibb.co/0yJkhssy/Gray-Yellow-Geometric-CEO-FOUNDER-Email-Header.png" width="500" alt="Mahbub Khandakar">
 </div>
 
 # Hi there! 👋 I'm Mahbub Khandakar
