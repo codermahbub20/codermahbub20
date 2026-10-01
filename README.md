@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/0yJkhssy/Gray-Yellow-Geometric-CEO-FOUNDER-Email-Header.png" width="500" alt="Mahbub Khandakar">
+  <img src="https://i.ibb.co.com/wZkgn5cy/Chat-GPT-Image-Jul-31-2026-03-26-39-PM.png" width="500" alt="Mahbub Khandakar">
 </div>
 
 # Hi there! 👋 I'm Mahbub Khandakar
